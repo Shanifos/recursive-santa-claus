@@ -1,5 +1,5 @@
 function deliverPresents(houses) {
-  if (houses.lenght == 0) return
+  if (houses.length == 0) return
   if (houses.length === 1) {
     console.log('Delivering presents to ' + houses[0])
   }
